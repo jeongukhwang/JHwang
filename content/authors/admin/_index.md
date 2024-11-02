@@ -21,7 +21,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:hjlook@unist.ac.kr'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/Orcid
     url: https://orcid.org/0009-0001-8926-3637
     
 interests:

@@ -122,6 +122,8 @@ awards:
   - title: UNIST Graduate Scholarship
     date_start: '2020-08-01-2022-08-01'
     awarder: Ulsan National Institute of Science and Technology (UNIST)
+
+---
     
 ## About Me
 

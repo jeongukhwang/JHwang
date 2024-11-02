@@ -30,36 +30,21 @@ interests:
   - Synthesis of Biocompatible Materials for Implantable Devices
 
 education:
-  - area:  M.S. in Chemical Engineering, 
-Aug. 2020–Aug. 2022
+  - area:  M.S. in Chemical Engineering, Aug. 2020–Aug. 2022
     institution: Ulsan National Institute of Science and Technology (UNIST)
     date_start: 2020-08-01
     date_end: 2022-08-01
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    
+  - area: B.S. in Chemical Engineering, Mar. 2014–Feb. 2020
+    institution: Pukyoung National University (PKNU)
+    date_start: 2014-01-01
+    date_end: 2020-02-01
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
+  - area: Military service, Aug. 2020–Aug. 2022
+    institution: Republic of Korea Marine Corps (ROKMC)
+    date_start: 2020-08-01
     date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

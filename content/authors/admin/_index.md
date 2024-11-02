@@ -125,6 +125,7 @@ awards:
     
 ## About Me
 
+about_me: |
   Welcome to visit my website!
   I am currently a researcher in Advanced Functional Polymers Center 
   (advisor: Dr. Yun Ho Kim) at the Korea Research Institute of 

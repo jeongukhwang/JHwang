@@ -8,16 +8,7 @@ design:
   # Default section spacing
   spacing: "6rem"
 
-sections:
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+
     design:
       css_class: dark
       background:
@@ -32,14 +23,17 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Topic 1 Design of advanced adhesive materials 
+        Development of functional adhesives through polymer design and demonstration of mechanisms through direct force measurement.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Topic 2 Nanoparticle hybridization 
+        Development of nanoparticle hybridization system that is able to endow multi-valent functionality on a single particle without any chemical reaction.
         
-        Please reach out to collaborate 😃
+        Topic 3 Development of implantable devices technology 
+        Synthesis of biocompatible materials for triboelectric energy harvesting that can charge the batteries of implantable medical devices without replacement surgery.
     design:
       columns: '1'
   - block: collection

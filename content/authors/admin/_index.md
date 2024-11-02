@@ -30,22 +30,22 @@ interests:
   - Synthesis of Biocompatible Materials for Implantable Devices
 
 education:
-  - area:  M.S. in Chemical Engineering, Aug. 2020–Aug. 2022
+  - area:  M.S. in Chemical Engineering
     institution: Ulsan National Institute of Science and Technology (UNIST)
     date_start: 2020-08-01
     date_end: 2022-08-01
     
-  - area: B.S. in Chemical Engineering, Mar. 2014–Feb. 2020
+  - area: B.S. in Chemical Engineering
     institution: Pukyoung National University (PKNU)
-    date_start: 2014-01-01
+    date_start: 2014-03-01
     date_end: 2020-02-01
 
-  - area: Military service, Aug. 2020–Aug. 2022
+  - area: Military service
     institution: Republic of Korea Marine Corps (ROKMC)
     date_start: 2020-08-01
     date_end: 2020-12-31
     
-work:
+Research Experience:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''

@@ -118,7 +118,8 @@ awards:
     date: '2022-11-01'
     awarder: The Korean Society of Adhesion & Interfaces
   - title: UNIST Graduate Scholarship
-    date: '2020-08-01'
+    start_date: "2020-08-01"
+    end_date: "2022-08-01"
     awarder: Ulsan National Institute of Science and Technology (UNIST)
 
 ---

@@ -74,10 +74,8 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Universal Testing Machine (UTM) 
         description: ''
-        percent: 80
-        icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100

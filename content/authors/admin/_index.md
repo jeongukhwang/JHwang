@@ -94,7 +94,7 @@ skills:
         icon: person-simple-walk
       - name: Cats
         description: ''
-        percent: 100
+        percent: 10
         icon: cat
       - name: Photography
         description: ''

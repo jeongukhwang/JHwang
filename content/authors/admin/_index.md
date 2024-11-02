@@ -25,17 +25,15 @@ profiles:
     url: https://orcid.org/0009-0001-8926-3637
     
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Interface Science – Adhesion and Wetting
+  - Nanoparticles Physics and Chemistry
+  - Synthesis of Biocompatible Materials for Implantable Devices
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  - area:  M.S. in Chemical Engineering, Aug. 2020–Aug. 2022
+    institution: Ulsan National Institute of Science and Technology (UNIST)
+    date_start: 2020-08-01
+    date_end: 2022-08-01
     button:
       text: 'Read Thesis'
       url: 'https://example.com'

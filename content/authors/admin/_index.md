@@ -119,11 +119,13 @@ awards:
   - title: Excellent Paper Presentation Award (Poster)
     date: '2022-11-01'
     awarder: The Korean Society of Adhesion & Interfaces
-  - title: UNIST Graduate Scholarship Aug.
+  - title: UNIST Graduate Scholarship
     date_start: '2020-08-01'
     date_end: '2022-08-01'
     awarder: Ulsan National Institute of Science and Technology (UNIST)
     
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to visit my website! |
+I am currently a researcher in Advanced Functional Polymers Center (advisor: Dr. Yun Ho Kim) at the Korea Research Institute of Chemical Technology (KRICT). Before I joined KRICT, I received a master degree in chemical engineering from Ulsan National Institute of Science and Technology (UNIST) (advisor: Prof. Dong Woog Lee). |
+My primary interest lies in the design of materials based on interface science for practical applications. I directly measure interaction forces across various scales and conditions, providing valuable insights into the development of advanced materials. My research encompasses not only the synthesis of multi-functional polymers for adhesives and batteries but also the development of nanoparticle hybridization. Nowadays, I continue to study interfacial science and strive to apply it to medical device technology.

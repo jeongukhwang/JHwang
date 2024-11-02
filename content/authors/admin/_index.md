@@ -30,7 +30,8 @@ interests:
   - Synthesis of Biocompatible Materials for Implantable Devices
 
 education:
-  - area:  M.S. in Chemical Engineering, Aug. 2020–Aug. 2022
+  - area:  M.S. in Chemical Engineering, 
+Aug. 2020–Aug. 2022
     institution: Ulsan National Institute of Science and Technology (UNIST)
     date_start: 2020-08-01
     date_end: 2022-08-01
